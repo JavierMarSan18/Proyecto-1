@@ -1,0 +1,67 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.contenedor{
+    display: block;
+    text-align: center;
+    margin-top: 150px;
+}
+
+h1{
+    margin-bottom: 1em;
+}
+
+h2{
+    font-size: 16px;
+}
+
+table, th , td{
+    border-style: solid;
+    border-width: 1px;
+}
+
+th, td{
+    padding: 5px;
+}
+    td{
+        text-align: left;
+    }
+
+.tabla-1{
+    display: inline-block;
+    border-spacing: 5px;     
+}
+
+
+.texto{ 
+    display: block;
+    width: 10em;
+    height: 4.5em;
+}
+    span{
+        font-weight: bold;
+    }
+.div-tabla-2{
+    display: block;
+    margin: -75px -1px 0px 165px}
+ .tabla-2{
+   margin-top: -74px;
+   border-spacing: 1px;
+
+ }
+     .td-tabla-2{
+         text-align: center;
+         padding: 0px;
+         background-color: #d4d4d1;    
+      } 
+      button{
+          padding: 2px 5px;
+          margin: 2px ;
+          background-color: #f7f7f7;
+          border-style: solid;
+          border-width: 1px;
+          border-color: gray;
+      }
+
